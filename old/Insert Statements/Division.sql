@@ -1,0 +1,17 @@
+INSERT TABLE Divisions (division_name, gender, age_min, age_max) VALUES
+('Male Open', 'Male', 0, 200),
+('Female Open', 'Female', 0, 200),
+('50+ Male', 'Male', 50, 200),
+('50+ Female', 'Female', 50, 200),
+('60+ Male', 'Male', 60, 200),
+('60+ Female', 'Female', 60, 200),
+('70+ Male', 'Male', 70, 200),
+('70+ Female', 'Female', 70, 200),
+('Under 21 Male', 'Male', 0, 21),
+('Under 21 Female', 'Female', 0, 21),
+('Under 18 Male', 'Male', 0, 18),
+('Under 18 Female', 'Female', 0, 18),
+('Under 16 Male', 'Male', 0, 16),
+('Under 16 Female', 'Female', 0, 16),
+('Under 14 Male', 'Male', 0, 14),
+('Under 14 Female', 'Female', 0, 14);
